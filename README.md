@@ -27,7 +27,7 @@ Pubg 0.19 Hack-Script For MediaTek Helio G90T
 
 Note:- When You Off Your Data Don't " ✖️Press Reconnect" " ✔️Press Cancel" After That On Your Data And You'll Get PopUp Enter Match Again Then Select " ✔️Ok"
 
-4. Download Mt-Manager Apk To Execute After Game Log-Clear File.
+4. Use Mt-Manager To Execute After Game Log-Clear File.
 * Use Offline Log-Clear File After Game Play.
 
 
