@@ -6,7 +6,6 @@ Pubg 0.19 Hack-Script For MediaTek Helio G90T
 1. Please Use GameGuardian 99.0 version.
 
 2. In GameGuardian
-
 * Hide GameGuardian From The Game Option Select
 -> 2 Slow
 -> 3 Slow
@@ -21,5 +20,16 @@ Pubg 0.19 Hack-Script For MediaTek Helio G90T
 * Prevent Unload: No(Default)
 -> Set Level-3
 
-                                                That's It
-                                            😎Hope-It's Fun😎
+3. If You Getting 10 Min Ban Then Use Data On-Off Trick :-
+* First Data On-Off In Plan.
+* Second Data On-Off In First Zone 0:0 Min.
+* Third Data On-Off In Second-Last Zone 0.0 Min.
+
+Note:- When You Off Your Data Don't " ✖️Press Reconnect" " ✔️Press Cancel" After That On Your Data And You Get PopUp Enter Match Again Then Select " ✔️Ok"
+
+4. Download Mt-Manager Apk To Execute After Game Log-Clear File.
+* Use Offline Log-Clear File After Game Play.
+
+
+                                                                        That's It
+                                                                    😎Hope-It's Fun😎
