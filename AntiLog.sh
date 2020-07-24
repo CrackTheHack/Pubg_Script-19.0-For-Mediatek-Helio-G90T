@@ -1,6 +1,7 @@
 #!/bin/sh 
 #Author : Utkarsh Singh
 # Copyright © crackthehack.club
+
 echo "                   👉PubgLogClear v2.0👈"
 echo "                   ----------------"
 echo ""
