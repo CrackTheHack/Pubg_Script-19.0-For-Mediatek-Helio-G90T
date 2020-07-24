@@ -31,5 +31,5 @@ Note:- When You Off Your Data Don't " ✖️Press Reconnect" " ✔️Press Cance
 * Use Offline Log-Clear File After Game Play.
 
 
-                                                             That's It
-                                                         😎Hope-It's Fun😎
+                                                      That's It
+                                                  😎Hope-It's Fun😎
