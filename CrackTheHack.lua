@@ -101,7 +101,7 @@ function call2()
 choice = gg.multiChoice ({
 	"1. Wall-Hack On [Game]",
 	"2. Wall-Hack Off [Game]",
-	"3. Body-Color [Game]",
+	"3. Body-Color [List]",
 	"4. Anntena [Lobby]",
     "5. Aimbot Short Range [Game]",
     "6. Less-Recoil [Game]",
