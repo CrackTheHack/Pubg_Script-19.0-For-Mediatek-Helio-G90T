@@ -3,9 +3,24 @@ Pubg 0.19 Hack-Script For MediaTek Helio G90T
 
 * Warning :- Please Don't Sell This Script Because It's Free And Without Encryption. And Don't Copy Value's Without Credit.
 
+* Only For Root User.
+
+* All Updated Value's 😊👉 22-7-2020
+
+* Features 😎:-
+-> Wall-Hack.
+-> Body Color-Hack {Red,Yellow,Blue-Black,White-Black,
+-> Less-Recoil.
+-> Short-Range Aimbot.
+-> Antenna.
+-> Log-Clear In Game.
+-> After Game Offline Log-Clear File.
+
 1. Please Use GameGuardian 99.0 version.
 
 2. In GameGuardian
+* Install 64Bit
+
 * Hide GameGuardian From The Game Option Select
 -> 2 Slow
 -> 3 Slow
