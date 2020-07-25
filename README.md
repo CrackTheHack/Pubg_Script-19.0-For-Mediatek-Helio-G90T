@@ -5,20 +5,20 @@ Pubg 0.19 Hack-Script For MediaTek Helio G90T
 
 * Only For Root User.
 
-* All Updated Value's 😊👉 22-7-2020
+1. All Updated Value's 😊👉 22-7-2020
 
 * Features 😎:-
--> Wall-Hack.
--> Body Color-Hack {Red,Yellow,Blue-Black,White-Black,
--> Less-Recoil.
--> Short-Range Aimbot.
--> Antenna.
--> Log-Clear In Game.
--> After Game Offline Log-Clear File.
+* Wall-Hack.
+* Body Color-Hack {Red,Yellow,Blue-Black,White-Black}
+* Less-Recoil.
+* Short-Range Aimbot.
+* Antenna.
+* Log-Clear In Game.
+* After Game Offline Log-Clear File.
 
-1. Please Use GameGuardian 99.0 version.
+2. Please Use GameGuardian 99.0 version.
 
-2. In GameGuardian
+3. In GameGuardian
 * Install 64Bit
 
 * Hide GameGuardian From The Game Option Select
@@ -35,14 +35,14 @@ Pubg 0.19 Hack-Script For MediaTek Helio G90T
 * Prevent Unload: No(Default)
 -> Set Level-3
 
-3. If You Getting 10 Min Ban Then Use Data On-Off Trick :-
+4. If You Getting 10 Min Ban Then Use Data On-Off Trick :-
 * First Data On-Off In Plan.
 * Second Data On-Off In First Zone 0:0 Min.
 * Third Data On-Off In Second-Last Zone 0.0 Min.
 
 Note:- When You Off Your Data Don't " ✖️Press Reconnect" " ✔️Press Cancel" After That On Your Data And You'll Get PopUp Enter Match Again Then Select " ✔️Ok"
 
-4. Use Mt-Manager To Execute After Game Log-Clear File.
+5. Use Mt-Manager To Execute After Game Log-Clear File.
 * Use Offline Log-Clear File After Game Play.
 
 
