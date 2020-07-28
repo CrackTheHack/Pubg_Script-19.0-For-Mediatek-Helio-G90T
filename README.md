@@ -6,7 +6,7 @@ Pubg 0.19 Hack-Script For MediaTek Helio G90T
 * Only For Root User.
 * Apply Wall-Hack At Single Select. Don't Select Multi Option With Wall-Hack.
 
-1. All Updated Value's 😊👉 28-7-2020  |  Status :- Safe No 10-Min Ban 
+1. All Updated Value's 😊👉 28-7-2020  |  Status :- Safe No 10-Min And 10-Year Ban 
 
 * Features 😎:-
 * Wall-Hack.
