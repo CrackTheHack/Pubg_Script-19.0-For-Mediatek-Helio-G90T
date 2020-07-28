@@ -36,14 +36,16 @@ Pubg 0.19 Hack-Script For MediaTek Helio G90T
 * Prevent Unload: No(Default)
 -> Set Level-3
 
-4. If You Getting 10 Min Ban Then Use Data On-Off Trick :-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1. If You Getting 10 Min Ban Then Use Data On-Off Trick :-
 * First Data On-Off In Plan.
 * Second Data On-Off In First Zone 0:0 Min.
 * Third Data On-Off In Second-Last Zone 0.0 Min.
 
 Note:- When You Off Your Data Don't " ✖️Press Reconnect" " ✔️Press Cancel" After That On Your Data And You'll Get PopUp Enter Match Again Then Select " ✔️Ok"
 
-5. Use Mt-Manager To Execute After Game Log-Clear File.
+2. Use Mt-Manager To Execute After Game Log-Clear File.
 * Use Offline Log-Clear File After Game Play.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
