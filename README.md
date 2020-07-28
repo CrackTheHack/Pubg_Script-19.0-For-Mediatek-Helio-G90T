@@ -45,6 +45,11 @@ Note:- When You Off Your Data Don't " ✖️Press Reconnect" " ✔️Press Cance
 
 5. Use Mt-Manager To Execute After Game Log-Clear File.
 * Use Offline Log-Clear File After Game Play.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Follow Me On Instagram :- https://www.instagram.com/utkarsh.singh_thakur/
+
+* Any Issue Contact Me On Telegram :- @Utkarsh_Singh_Thakur
 
 
                                                       That's It
