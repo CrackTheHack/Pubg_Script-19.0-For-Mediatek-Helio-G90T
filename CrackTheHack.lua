@@ -1,4 +1,4 @@
-﻿-- Created By Utkarsh Singh Thakur --
+-- Created By Utkarsh Singh Thakur --
 -- Website :- www.crackthehack.club --
 -- Github :- https://github.com/Utkarsh-Singh-Thakur --
 
@@ -13,7 +13,7 @@ menu = gg. multiChoice({
 	"3. TDM-Hack",
 	"4. Log-Clear",
 	"5. Exit"
-},nil, "Uk-Hack's Beta V1.1")
+},nil, "😎CrackTheHack-V1😎")
 
 -- Home --
 if menu == nil then
@@ -86,7 +86,7 @@ gg.editAll("0", 4)
 gg.clearResults()
 gg.setRanges(4)
 gg.searchNumber("0;0~20;131586::9", 4, false, 536870912, 0, -1)
-gg.searchNumber("131586", 4, false, 536870912, 0, -1)
+gg.searchNumber("
 gg.getResults(100)
 gg.editAll("0", 4)
 gg.clearResults()
@@ -101,12 +101,12 @@ function call2()
 choice = gg.multiChoice ({
 	"1. Wall-Hack On [Game]",
 	"2. Wall-Hack Off [Game]",
-	"3. Body-Color [List]",
+	"3. Body-Color [Game]",
 	"4. Anntena [Lobby]",
-    "5. Aimbot Short Range [Game]",
+    "5. 50% HeadShort [Game] Safe",
     "6. Less-Recoil [Game]",
     "7. Back"
-},nil,  "Global-Hack Beta V1.1")
+},nil,  "Global-Hack V1")
 
 --Global call --
 
@@ -196,7 +196,7 @@ color = gg.multiChoice({
 	"7. White-Black Body Color On [Game]",
     "8. White-Black Color Off [Game]",
     "9. Back"
-},nil, "Body Color List")
+},nil, "Body-Color List")
 
 --Global Color List --
 if color == nil then
@@ -404,34 +404,35 @@ end
 function take4()
 gg.clearResults()
 gg.setRanges(gg.REGION_ANONYMOUS)
-gg.searchNumber("88.50576019287F;87.27782440186F;-100.91194152832F;1F::13", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
-gg.searchNumber("88.50576019287F;87.27782440186F;1F", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
-gg.getResults(6)
-gg.editAll("1.96875;1.96875;999;1.96875;1.96875;999", gg.TYPE_FLOAT)
-gg.clearResults()
-gg.toast("Anntena-Activated")
+  gg.searchNumber("88.50576019287F;87.27782440186F;-100.91194152832F;1F::13", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("88.50576019287F;87.27782440186F;1F", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(6)
+  gg.editAll("1.96875;1.96875;999;1.96875;1.96875;999", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.toast("Antenna Activated")
 end
 
--- Global Short-Range Aimbot -
+-- Global 50% Aimbot -
 function take5()
 gg.clearResults()
-gg.setRanges(8)
-gg.searchNumber("360;0.0001;1478828288",16,false,536870912,0,-1)
-gg.searchNumber("0.0001",16,false,536870912,0,-1)
-gg.getResults(100)
-gg.editAll("9999",16)
-gg.toast("Aimbot SR Activated")
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("9.20161819458;23;25;30.5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("25;30.5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(10)
+gg.editAll("200", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Headshoot 50% Activated")
 gg.clearResults()
 end
   
 -- Less-Recoil --
 function take6()
 gg.clearResults()
-gg.setRanges(8)
-gg.searchNumber("-2.2673448e24;-1.36203639e28", 16, false, 536870912, 0, -1)
-gg.searchNumber("-1.36203639e28", 16, false, 536870912, 0, -1)
-gg.getResults(99)
-gg.editAll("0", 16)
+gg.setRanges(gg.REGION_C_DATA)
+gg.searchNumber("-5.10804392e27", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(2)
+gg.editAll("0", gg.TYPE_FLOAT)
+gg.clearResults()
 gg.toast("Less-Recoil Activated")
 end
 
@@ -448,10 +449,10 @@ tdm = gg.multiChoice({
 	"2. Wall-Hack Off [Game]",
 	"3. Body-Color [List]",
 	"4. Anntena",
-	"5. Aimbot Short Range",
+	"5. 50% HeadShort [Game] Safe",
 	"6. Less-Recoil",
 	"7. Back"
-},nil,  "TDM-Hack Beta V1.1")
+},nil,  "TDM-Hack V1")
 
 --TDM Call --
 if tdm == nil then
@@ -539,7 +540,7 @@ tdmcolor = gg.multiChoice({
 	"7. White-Black Body Color On [Game]",
     "8. White-Black Color Off [Game]",
     "9. Back"
-},nil, "TDM-Hack Beta V1.1")
+},nil, "Body-Color List")
 
 if tdmcolor == nil then
 else
@@ -752,26 +753,27 @@ gg.clearResults()
 gg.toast("Anntena-Activated")
 end
 
--- TDM Aimbot Short Range --
+-- TDM HeadShort --
 function td5()
 gg.clearResults()
-gg.setRanges(8)
-gg.searchNumber("360;0.0001;1478828288",16,false,536870912,0,-1)
-gg.searchNumber("0.0001",16,false,536870912,0,-1)
-gg.getResults(100)
-gg.editAll("9999",16)
-gg.toast("Aimbot SR Activated")
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("9.20161819458;23;25;30.5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("25;30.5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(10)
+gg.editAll("200", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Headshoot 50% Activated")
 gg.clearResults()
 end
   
 -- TDM Less-Recoil --
 function td6()
 gg.clearResults()
-gg.setRanges(8)
-gg.searchNumber("-2.2673448e24;-1.36203639e28", 16, false, 536870912, 0, -1)
-gg.searchNumber("-1.36203639e28", 16, false, 536870912, 0, -1)
-gg.getResults(99)
-gg.editAll("0", 16)
+gg.setRanges(gg.REGION_C_DATA)
+gg.searchNumber("-5.10804392e27", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(2)
+gg.editAll("0", gg.TYPE_FLOAT)
+gg.clearResults()
 gg.toast("Less-Recoil Activated")
 end
 
