@@ -3,8 +3,8 @@
 -- Github :- https://github.com/Utkarsh-Singh-Thakur --
 
 --Start
-gg.alert("🤓Created By Utkarsh Singh🤓")
-gg.alert("👉Follow me on insta :- utkarsh.singh_thakur👈")
+gg.alert("ðŸ¤“Created By Utkarsh SinghðŸ¤“")
+gg.alert("ðŸ‘‰Follow me on insta :- utkarsh.singh_thakurðŸ‘ˆ")
 
 function home()
 menu = gg. multiChoice({
@@ -13,7 +13,7 @@ menu = gg. multiChoice({
 	"3. TDM-Hack",
 	"4. Log-Clear",
 	"5. Exit"
-},nil, "😎CrackTheHack-V1😎")
+},nil, "CrackTheHack V1")
 
 -- Home --
 if menu == nil then
@@ -86,7 +86,7 @@ gg.editAll("0", 4)
 gg.clearResults()
 gg.setRanges(4)
 gg.searchNumber("0;0~20;131586::9", 4, false, 536870912, 0, -1)
-gg.searchNumber("
+gg.searchNumber("131586", 4, false, 536870912, 0, -1)
 gg.getResults(100)
 gg.editAll("0", 4)
 gg.clearResults()
@@ -99,14 +99,13 @@ end
 -- Global-Hack --
 function call2()
 choice = gg.multiChoice ({
-    "1. Wall-Hack On [Game]",
-    "2. Wall-Hack Off [Game]",
-    "3. Body-Color [Game]",
-    "4. Anntena [Lobby]",
-    "5. 50% Headshot [Game] Not-Safe",
-    "6. Less-Recoil [Game] Safe",
-    "7. Back"
-},nil,  "Global-Hack V1")
+	"1. Wall-Hack On [Game]",
+	"2. Wall-Hack Off [Game]",
+	"3. Body-Color [Game]",
+	"4. Anntena [Lobby]",
+    "5. Less-Recoil [Game]",
+    "6. Back"
+},nil,  "Global-Hack  V1")
 
 --Global call --
 
@@ -128,9 +127,6 @@ if choice[5] == true then
 take5()
 end
 if choice[6] == true then
-take6()
-end
-if choice[7] == true then
 home()
 end
 end
@@ -196,7 +192,7 @@ color = gg.multiChoice({
 	"7. White-Black Body Color On [Game]",
     "8. White-Black Color Off [Game]",
     "9. Back"
-},nil, "Body-Color List")
+},nil, "Body Color List")
 
 --Global Color List --
 if color == nil then
@@ -411,22 +407,9 @@ gg.setRanges(gg.REGION_ANONYMOUS)
   gg.clearResults()
   gg.toast("Antenna Activated")
 end
-
--- Global 50% Aimbot -
-function take5()
-gg.clearResults()
-gg.setRanges(gg.REGION_ANONYMOUS)
-gg.searchNumber("9.20161819458;23;25;30.5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
-gg.searchNumber("25;30.5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
-gg.getResults(10)
-gg.editAll("200", gg.TYPE_FLOAT)
-gg.clearResults()
-gg.toast("Headshot 50% Activated")
-gg.clearResults()
-end
   
 -- Less-Recoil --
-function take6()
+function take5()
 gg.clearResults()
 gg.setRanges(gg.REGION_C_DATA)
 gg.searchNumber("-5.10804392e27", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
@@ -449,9 +432,8 @@ tdm = gg.multiChoice({
 	"2. Wall-Hack Off [Game]",
 	"3. Body-Color [List]",
 	"4. Anntena",
-	"5. 50% Headshot [Game] Not-Safe",
-	"6. Less-Recoil Safe",
-	"7. Back"
+	"5. Less-Recoil",
+	"6. Back"
 },nil,  "TDM-Hack V1")
 
 --TDM Call --
@@ -473,9 +455,6 @@ if tdm[5] == true then
 td5()
 end
 if tdm[6] == true then
-td6()
-end
-if tdm[7] == true then
 home()
 end
 end
@@ -752,22 +731,9 @@ gg.editAll("1.96875;1.96875;999;1.96875;1.96875;999", gg.TYPE_FLOAT)
 gg.clearResults()
 gg.toast("Anntena-Activated")
 end
-
--- TDM HeadShort --
-function td5()
-gg.clearResults()
-gg.setRanges(gg.REGION_ANONYMOUS)
-gg.searchNumber("9.20161819458;23;25;30.5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
-gg.searchNumber("25;30.5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
-gg.getResults(10)
-gg.editAll("200", gg.TYPE_FLOAT)
-gg.clearResults()
-gg.toast("Headshot 50% Activated")
-gg.clearResults()
-end
   
 -- TDM Less-Recoil --
-function td6()
+function td5()
 gg.clearResults()
 gg.setRanges(gg.REGION_C_DATA)
 gg.searchNumber("-5.10804392e27", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
@@ -808,7 +774,7 @@ end
 
 --exit--
 function exit()
-gg. alert("Good Bye🙂")
+gg. alert("Good Bye")
 os.exit()
 end
 while true do
@@ -820,4 +786,4 @@ if hide == 1 then
 home()
 end
 end
---end--
+--end
