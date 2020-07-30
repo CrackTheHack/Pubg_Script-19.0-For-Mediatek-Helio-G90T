@@ -13,7 +13,6 @@ Pubg 0.19 Hack-Script For MediaTek Helio G90T
 * Wall-Hack.
 * Body Color-Hack {Red,Yellow,Blue-Black,White-Black}
 * Less-Recoil.
-* 50% Headshot.
 * Antenna.
 * Log-Clear In Game.
 * After Game Offline Log-Clear File.
