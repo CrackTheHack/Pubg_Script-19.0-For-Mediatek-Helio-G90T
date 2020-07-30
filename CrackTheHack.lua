@@ -103,8 +103,8 @@ choice = gg.multiChoice ({
     "2. Wall-Hack Off [Game]",
     "3. Body-Color [Game]",
     "4. Anntena [Lobby]",
-    "5. 50% Headshot [Game] Safe",
-    "6. Less-Recoil [Game]",
+    "5. 50% Headshot [Game] Not-Safe",
+    "6. Less-Recoil [Game] Safe",
     "7. Back"
 },nil,  "Global-Hack V1")
 
@@ -449,8 +449,8 @@ tdm = gg.multiChoice({
 	"2. Wall-Hack Off [Game]",
 	"3. Body-Color [List]",
 	"4. Anntena",
-	"5. 50% Headshot [Game] Safe",
-	"6. Less-Recoil",
+	"5. 50% Headshot [Game] Not-Safe",
+	"6. Less-Recoil Safe",
 	"7. Back"
 },nil,  "TDM-Hack V1")
 
@@ -808,7 +808,7 @@ end
 
 --exit--
 function exit()
-gg. alert("Good Bye")
+gg. alert("Good Bye🙂")
 os.exit()
 end
 while true do
@@ -820,4 +820,4 @@ if hide == 1 then
 home()
 end
 end
---end
+--end--
