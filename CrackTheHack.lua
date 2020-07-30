@@ -99,11 +99,11 @@ end
 -- Global-Hack --
 function call2()
 choice = gg.multiChoice ({
-	"1. Wall-Hack On [Game]",
-	"2. Wall-Hack Off [Game]",
-	"3. Body-Color [Game]",
-	"4. Anntena [Lobby]",
-    "5. 50% HeadShort [Game] Safe",
+    "1. Wall-Hack On [Game]",
+    "2. Wall-Hack Off [Game]",
+    "3. Body-Color [Game]",
+    "4. Anntena [Lobby]",
+    "5. 50% Headshot [Game] Safe",
     "6. Less-Recoil [Game]",
     "7. Back"
 },nil,  "Global-Hack V1")
@@ -421,7 +421,7 @@ gg.searchNumber("25;30.5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(10)
 gg.editAll("200", gg.TYPE_FLOAT)
 gg.clearResults()
-gg.toast("Headshoot 50% Activated")
+gg.toast("Headshot 50% Activated")
 gg.clearResults()
 end
   
@@ -449,7 +449,7 @@ tdm = gg.multiChoice({
 	"2. Wall-Hack Off [Game]",
 	"3. Body-Color [List]",
 	"4. Anntena",
-	"5. 50% HeadShort [Game] Safe",
+	"5. 50% Headshot [Game] Safe",
 	"6. Less-Recoil",
 	"7. Back"
 },nil,  "TDM-Hack V1")
@@ -762,7 +762,7 @@ gg.searchNumber("25;30.5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(10)
 gg.editAll("200", gg.TYPE_FLOAT)
 gg.clearResults()
-gg.toast("Headshoot 50% Activated")
+gg.toast("Headshot 50% Activated")
 gg.clearResults()
 end
   
