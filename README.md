@@ -7,7 +7,7 @@ Pubg 0.19 Hack-Script For MediaTek Helio G90T
 * Apply Wall-Hack At Single Select. Don't Select Multi Option With Wall-Hack.
 * Off Wall-hack Value If You Want To Play TDM After Global Game Play And Same For Global To TDM.
 
-1. Last-Update 😊👉 30-7-2020  |  Status :- Safe 👉No 10-Min And 10-Year Ban👈
+1. Last-Update 😊👉1-8-2020  |  Status :- Not-Safe 👉10-Min Ban #Working to fix
 
 * Features 😎:-
 * Wall-Hack.
