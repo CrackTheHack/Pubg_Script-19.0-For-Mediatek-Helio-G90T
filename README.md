@@ -49,7 +49,7 @@ Note:- When You Off Your Data Don't " ✖️Press Reconnect" " ✔️Press Cance
 * Use Offline Log-Clear File After Game Play.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-* Follow Me On Instagram :- https://www.instagram.com/utkarsh.singh_thakur/
+* Follow Me On Instagram :- https://www.instagram.com/utkarsh_.singh.__
 
 * Any Issue Contact Me On Telegram :- @Utkarsh_Singh_Thakur
 
